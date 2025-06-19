@@ -33,7 +33,7 @@
 ```bash
 git clone https://github.com/Ashish-Biswas-bit/Bangladesh-History-Quiz
 cd bangladesh-history-quiz
-python quiz_game.py
+python quiz_home.py
 ```
 
 > **নোট:** Python 3.8+ ভার্সন ইনস্টল থাকতে হবে
